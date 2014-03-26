@@ -1,16 +1,16 @@
 {"items": [
     {
-        "title": "Evolution of Walter White",
-        "author": "Matt Pascual",
+        "title": "Kitkat",
+        "author": "Google",
         "image_url": "/static/wallpapers/1.jpg",
         "price": "Free",
         "pkgName": "com.rovio.angrybirds"
     },
     {
-        "title": "Low Poly Tree",
-        "author": "AngryFish11",
+        "title": "Simplex",
+        "author": "Mac Designs",
         "image_url": "/static/wallpapers/2.jpg",
-        "price": "Free",
+        "price": "$1.89",
         "pkgName": "com.rovio.angrybirds"
     },
     {

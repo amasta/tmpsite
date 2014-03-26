@@ -1,6 +1,6 @@
 {
-"title": "Evolution of Walter White",
-"author": "OllyMauss",
+"title": "Simplex Theme",
+"author": "Mac Designs",
 "image_urls": [ "static/wallpapers/1_full_a.jpg",
              "static/wallpapers/1_full_b.jpg",
              "static/wallpapers/1_full_c.jpg",
@@ -8,12 +8,11 @@
              "static/wallpapers/1_full_e.jpg",
              "static/wallpapers/1_full_f.jpg"
            ],
-"price": "Free",
-"description": "Umbra, is a rounded icon pack for Android Launchers. With a light long shadow and a slight texture, Umbra is osmething different. In version 1.2.5, Umbra has over 690 handcrafted icons, 9 wallpapers in different styles, a Dashboard application and much more.",
-"details": [ "690+ Icons",
-             "15 fonts",
-             "9 Wallpapers",
-             "Custom Lockscreen",
-             "3rd party color packs"
+"price": "$1.89",
+"description": "Simplex is a fresh and minimal take on the Android UI for use with the Theme Chooser Engine available in most custom ROMs. With a cool grey color scheme and subtle hints of light red, this theme is perfect for those looking for an overhaul to the look of your phone. An attention to detail is important, take a look at the screenshots and see for yourself!",
+"details": [ "500+ Icons",
+             "250+ Styled resources",
+             "Fonts",
+             "Wallpaper"
            ]
 }
